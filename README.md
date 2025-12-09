@@ -104,6 +104,11 @@ Paper
 
 Phones contribute the largest share of revenue.
 
+## 📊 Dashboard Preview
+
+![Ecommerce Dashboard](https://github.com/PoojaJadhav07/Ecommerce-Sales-Analysis/blob/main/%7B82E855FA-3996-4DC1-8EFF-5577B7E4B1B8%7D.png)
+
+
 🛠️ Excel Techniques Used
 
 Pivot Tables + Pivot Charts
