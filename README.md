@@ -1,12 +1,12 @@
-.
 
-📊 Ecommerce Sales Analysis – Interactive Excel Dashboard (With Insights)
+
+# **Ecommerce Sales Analysis – Interactive Excel Dashboard**
 
 This project is a complete Excel-based Ecommerce Sales Dashboard designed using real multi-year sales data. The dashboard includes KPI tracking, trend analysis, category performance, state-wise sales, sub-category insights, and year-over-year comparisons.
 
 It demonstrates how Excel can be used for end-to-end analytics: data cleaning → KPI creation → pivot tables → charts → final dashboard.
 
-🚀 Key Metrics (from the Dataset)
+ ## **Key Metrics (from the Dataset)**
 
 From your KPI sheets and Pivot Tables:
 
@@ -20,7 +20,7 @@ Total Quantity Sold: 37,873 units
 
 Overall Profit Margin: 12.46%
 
-📈 Yearly Performance
+ ## **Yearly Performance**
 
 Based on the YOY KPI sheet:
 
@@ -39,14 +39,14 @@ YOY Sales Change:
 ✔ 2014 saw the highest growth
 ✔ 2015 sustained positive trend
 
-Profit Trend
+### **Profit Trend**
 
 Profit steadily improves with product mix shifts
 
 2014 shows strongest profit contribution
 
-📊 Dashboard Visual Insights
-1. Monthly Sales & Profit Trend
+##  **Dashboard Visual Insights**
+### 1. Monthly Sales & Profit Trend
 
 Sales peak in November, driven by holiday demand
 
@@ -54,7 +54,7 @@ Lowest sales in February
 
 Profit closely follows sales pattern except March, where sales spike but profit margin dips
 
-2. Category-wise Sales Share
+### 2. Category-wise Sales Share
 
 From your Pie/Donut Chart:
 
@@ -66,7 +66,7 @@ Furniture: ~31%
 
 Technology is your highest revenue-generating category.
 
-3. Profit Breakdown (Waterfall Chart)
+### 3. Profit Breakdown (Waterfall Chart)
 
 Some sub-categories such as Tables generate losses
 
@@ -74,7 +74,7 @@ Large positive profit coming from Accessories, Phones, Chairs, Storage
 
 This identifies which products should be prioritized or discontinued.
 
-4. State-wise Sales Map
+### 4. State-wise Sales Map
 
 Top revenue contributing states include:
 
@@ -88,7 +88,7 @@ Washington
 
 These states dominate overall business performance.
 
-5. Top 5 Sub-Categories (by Sales)
+### 5. Top 5 Sub-Categories (by Sales)
 
 From your “Top 5” sheet:
 
@@ -104,12 +104,12 @@ Paper
 
 Phones contribute the largest share of revenue.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 ![Ecommerce Dashboard](https://github.com/PoojaJadhav07/Ecommerce-Sales-Analysis/blob/main/%7B82E855FA-3996-4DC1-8EFF-5577B7E4B1B8%7D.png)
 
 
-🛠️ Excel Techniques Used
+## Excel Techniques Used
 
 Pivot Tables + Pivot Charts
 
@@ -127,7 +127,7 @@ Conditional Formatting for KPIs
 
 Dashboard Design (Layout Sheet included)
 
-🎯 Business Insights Summary
+## Business Insights Summary
 
 ✔ Technology category is the biggest revenue driver
 ✔ California is the highest revenue-producing state
@@ -138,7 +138,7 @@ Dashboard Design (Layout Sheet included)
 
 This dashboard enables managers to quickly understand performance, find opportunities, and make informed business decisions.
 
-📂 Repository Contents
+## Repository Contents
 
 Ecommerce Sales Analysis COMPLETE.xlsx (Final Dashboard)
 
